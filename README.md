@@ -6,24 +6,24 @@
 
 <h2 style=" font-weight:bold"> Easy </h2>
 
-|      | Status  | Video        | Code                |
-| :--- | :------ | :----------- | :------------------ |
-| `00` | &cross; | **[...](#)** | **[JavaScript](#)** |
+|      | Status  | Video Solution                                         | Code                                                                                                                |
+| :--- | :------ | :----------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------ |
+| `00` | &check; | **[Contains Duplicate](https://youtu.be/aZmUb8dBdeQ)** | **[JavaScript](https://github.com/ozantekin/Interview-Questions-With-JavaScript/tree/main/000_Contains_Duplicate)** |
 
 <hr>
 
 <h2 style=" font-weight:bold"> Medium </h2>
 
-|      | Status  | Video        | Code                |
-| :--- | :------ | :----------- | :------------------ |
-| `00` | &cross; | **[...](#)** | **[JavaScript](#)** |
+|      | Status  | Video Solution | Code                |
+| :--- | :------ | :------------- | :------------------ |
+| `00` | &cross; | **[...](#)**   | **[JavaScript](#)** |
 
 <hr>
 
 <h2 style=" font-weight:bold"> Hard </h2>
 
-|      | Status  | Video        | Code                |
-| :--- | :------ | :----------- | :------------------ |
-| `00` | &cross; | **[...](#)** | **[JavaScript](#)** |
+|      | Status  | Video Solution | Code                |
+| :--- | :------ | :------------- | :------------------ |
+| `00` | &cross; | **[...](#)**   | **[JavaScript](#)** |
 
 </div>
