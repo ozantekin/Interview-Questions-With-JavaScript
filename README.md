@@ -6,9 +6,9 @@
 
 <h2 style=" font-weight:bold"> Easy </h2>
 
-|      | Status  | Video Solution                                         | Code                                                                                                                |
-| :--- | :------ | :----------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------ |
-| `00` | &check; | **[Contains Duplicate](https://youtu.be/aZmUb8dBdeQ)** | **[JavaScript](https://github.com/ozantekin/Interview-Questions-With-JavaScript/tree/main/000_Contains_Duplicate)** |
+|      | Status  | Video Solution                                         | Code                                                                                                                                     |
+| :--- | :------ | :----------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
+| `00` | &check; | **[Contains Duplicate](https://youtu.be/aZmUb8dBdeQ)** | **[JavaScript](https://github.com/ozantekin/Interview-Questions-With-JavaScript/blob/main/000_Contains_Duplicate/ContainsDuplicate.js)** |
 
 <hr>
 
@@ -22,8 +22,8 @@
 
 <h2 style=" font-weight:bold"> Hard </h2>
 
-|      | Status  | Video Solution | Code                |
-| :--- | :------ | :------------- | :------------------ |
-| `00` | &cross; | **[...](#)**   | **[JavaScript](#)** |
+|      | Status  | Video Solutionx | Code                |
+| :--- | :------ | :-------------- | :------------------ |
+| `00` | &cross; | **[...](#)**    | **[JavaScript](#)** |
 
 </div>
