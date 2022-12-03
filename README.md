@@ -6,9 +6,10 @@
 
 <h2 style=" font-weight:bold"> Easy </h2>
 
-|      | Status  | Video Solution                                         | Code                                                                                                                                     |
-| :--- | :------ | :----------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
-| `00` | &check; | **[Contains Duplicate](https://youtu.be/aZmUb8dBdeQ)** | **[JavaScript](https://github.com/ozantekin/Interview-Questions-With-JavaScript/blob/main/000_Contains_Duplicate/ContainsDuplicate.js)** |
+|      | Status  | Video Solution                                             | Code                                                                                                                                     |
+| :--- | :------ | :--------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
+| `00` | &check; | **[Contains Duplicate](https://youtu.be/aZmUb8dBdeQ)**     | **[JavaScript](https://github.com/ozantekin/Interview-Questions-With-JavaScript/blob/main/000_Contains_Duplicate/ContainsDuplicate.js)** |
+| `01` | &check; | **[Two Sum](https://www.youtube.com/watch?v=1wn7VPD4Nq8)** | **[JavaScript](https://github.com/ozantekin/Interview-Questions-With-JavaScript/blob/main/001_Two_Sum/TwoSum.js)**                       |
 
 <hr>
 
@@ -16,7 +17,7 @@
 
 |      | Status  | Video Solution | Code                |
 | :--- | :------ | :------------- | :------------------ |
-| `00` | &cross; | **[...](#)**   | **[JavaScript](#)** |
+| `00` | &cross; | **[...]()**    | **[JavaScript](#)** |
 
 <hr>
 
